@@ -9,7 +9,7 @@ Video Lectures
 For Developers
 ============
 You can also see [Java](https://github.com/starlangsoftware/Hmm), [Python](https://github.com/starlangsoftware/Hmm-Py), 
-[Cython](https://github.com/starlangsoftware/Hmm-Cy), [Swift](https://github.com/starlangsoftware/Hmm-Swift), [C++](https://github.com/starlangsoftware/Hmm-CPP), 
+[Cython](https://github.com/starlangsoftware/Hmm-Cy), [Swift](https://github.com/starlangsoftware/Hmm-Swift), [C++](https://github.com/starlangsoftware/Hmm-CPP), [C](https://github.com/starlangsoftware/Hmm-C),
 or [C#](https://github.com/starlangsoftware/Hmm-CS) repository.
 
 ## Requirements
