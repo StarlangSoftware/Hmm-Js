@@ -1,9 +1,9 @@
 {
   "name": "nlptoolkit-hmm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hmm Library",
-  "main": "index.js",
-  "types": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "Mocha"
   },
@@ -24,7 +24,7 @@
     "typescript": "^4.4.4"
   },
   "dependencies": {
-    "nlptoolkit-datastructure": "^1.0.4",
-    "nlptoolkit-math": "^1.0.2"
+    "nlptoolkit-datastructure": "^1.0.8",
+    "nlptoolkit-math": "^1.0.5"
   }
 }
