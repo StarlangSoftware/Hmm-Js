@@ -1,6 +1,6 @@
 {
   "name": "nlptoolkit-hmm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hmm Library",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,12 +19,13 @@
   "homepage": "https://github.com/StarlangSoftware/Hmm-Js#readme",
   "devDependencies": {
     "@types/mocha": "^9.0.0",
+    "@types/node": "^25.2.3",
     "mocha": "^9.1.3",
     "ts-node": "^10.4.0",
-    "typescript": "^4.4.4"
+    "typescript": "^5.9.3"
   },
   "dependencies": {
-    "nlptoolkit-datastructure": "^1.0.8",
-    "nlptoolkit-math": "^1.0.5"
+    "nlptoolkit-datastructure": "^1.0.9",
+    "nlptoolkit-math": "^1.0.7"
   }
 }
